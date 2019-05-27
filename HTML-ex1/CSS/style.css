@@ -9,7 +9,7 @@
     height: auto;
     border-width: 1px;
     border-style: solid;
-    border-color: #0033ff;
+    border-color: #0033FF;
 }
 .player-profile{
     width: 100%;
@@ -53,8 +53,11 @@
 }
 .comment-img{
     font-size: 12px;
+    width: 25px;
+    height:20px;
     position: relative;
     float: left;
+    margin-left:20px;
 }
 .posted-by{
     font-size: 12px;
